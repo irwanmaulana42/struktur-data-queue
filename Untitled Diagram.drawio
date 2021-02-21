@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-21T16:36:24.424Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.74" etag="qgaxxsNTzhBtqwchlcnE" version="14.4.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-02-21T16:38:03.757Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.74" etag="Z3Rs1FiqjGIIhU8MjuYS" version="14.4.2" type="github" pages="2">
   <diagram id="PcTsi_C0Np-0Euot-6bC" name="DFS">
-    <mxGraphModel dx="783" dy="369" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="940" dy="443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -121,24 +121,6 @@
               <mxPoint x="830" y="310" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="PS9qQUqdal6X60hZ7T1V-56" value="Node Awal" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="920" y="9" width="90" height="51" as="geometry" />
-        </mxCell>
-        <mxCell id="PS9qQUqdal6X60hZ7T1V-58" value="" style="endArrow=classic;html=1;dashed=1;strokeColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="PS9qQUqdal6X60hZ7T1V-56" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="660" y="190" as="sourcePoint" />
-            <mxPoint x="880" y="80" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="920" y="80" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PS9qQUqdal6X60hZ7T1V-59" value="Node Akhir" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="16" y="242" width="90" height="51" as="geometry" />
-        </mxCell>
-        <mxCell id="8iuh3zusP28n_4igizn3-1" value="&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;ol&gt;&lt;li&gt;&lt;span&gt;Rembang (Node Awal)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Kudus&lt;/span&gt;&lt;/li&gt;&lt;li&gt;Purwodadi&lt;/li&gt;&lt;li&gt;Solo&lt;/li&gt;&lt;li&gt;Sukoharjo&lt;/li&gt;&lt;li&gt;Wonogiri&lt;/li&gt;&lt;li&gt;Sragen&lt;/li&gt;&lt;li&gt;Blora&lt;/li&gt;&lt;li&gt;Boyolali&lt;/li&gt;&lt;li&gt;Salatiga&lt;/li&gt;&lt;li&gt;Temanggung&lt;/li&gt;&lt;li&gt;Wonosobo&lt;/li&gt;&lt;li&gt;&lt;span&gt;Magelang&amp;nbsp;&lt;/span&gt;(Node Akhir)&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="960" y="95" width="250" height="290" as="geometry" />
         </mxCell>
         <mxCell id="9Hx7qrM3H4-abLAiLOEg-3" value="2" style="endArrow=none;html=1;strokeColor=#000000;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;rounded=1;endFill=0;jumpSize=6;fontSize=14;fontStyle=1;entryPerimeter=0;" edge="1" parent="1" source="PS9qQUqdal6X60hZ7T1V-13" target="PS9qQUqdal6X60hZ7T1V-12">
           <mxGeometry x="-0.0984" y="-10" width="50" height="50" relative="1" as="geometry">
